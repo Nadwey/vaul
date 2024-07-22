@@ -1,6 +1,6 @@
 {
-  "name": "vaul",
-  "version": "0.9.1",
+  "name": "@nadwey/vaul",
+  "version": "0.9.2",
   "description": "Drawer component for React.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -38,24 +38,24 @@
   "homepage": "https://vaul.emilkowal.ski/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emilkowalski/vaul.git"
+    "url": "https://github.com/Nadwey/vaul.git"
   },
   "bugs": {
-    "url": "https://github.com/emilkowalski/vaul/issues"
+    "url": "https://github.com/Nadwey/vaul/issues"
   },
   "devDependencies": {
-    "@playwright/test": "^1.37.1",
-    "@radix-ui/react-dialog": "^1.0.4",
-    "@types/node": "20.5.7",
-    "@types/react": "18.2.55",
-    "@types/react-dom": "18.2.18",
-    "bunchee": "^4.4.6",
-    "eslint": "^7.32.0",
-    "prettier": "^2.5.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "turbo": "1.6",
-    "typescript": "5.2.2"
+    "@playwright/test": "^1.45.3",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@types/node": "20.14.11",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "bunchee": "^4.4.8",
+    "eslint": "^9.7.0",
+    "prettier": "^3.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "turbo": "2.0.9",
+    "typescript": "5.5.3"
   },
   "peerDependencies": {
     "react": "^16.8 || ^17.0 || ^18.0",
@@ -63,6 +63,6 @@
   },
   "packageManager": "pnpm@6.32.11",
   "dependencies": {
-    "@radix-ui/react-dialog": "^1.0.4"
+    "@radix-ui/react-dialog": "^1.1.1"
   }
 }

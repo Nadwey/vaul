@@ -7,7 +7,7 @@ Vaul is an unstyled drawer component for React that can be used as a Dialog repl
 To start using the library, install it in your project:,
 
 ```bash
-npm install vaul
+npm install @nadwey/vaul
 ```
 
 Use the drawer in your app.
